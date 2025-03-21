@@ -1,0 +1,8 @@
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\bin\Debug\1.feladat.exe.config
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\bin\Debug\1.feladat.exe
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\bin\Debug\1.feladat.pdb
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\obj\Debug\1.feladat.csproj.AssemblyReference.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\obj\Debug\1.feladat.csproj.SuggestedBindingRedirects.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\obj\Debug\1.feladat.csproj.CoreCompileInputs.cache
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\obj\Debug\1.feladat.exe
+C:\Users\v\Desktop\Saját\kopaszBela\Feladatok\2025.03.14\DolgozatLista_KomócziBence\1.feladat\obj\Debug\1.feladat.pdb
